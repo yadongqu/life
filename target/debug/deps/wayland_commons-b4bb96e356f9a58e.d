@@ -1,0 +1,11 @@
+/home/eddy/Projects/notes/books/beginning-rust-programming/code/life/target/debug/deps/wayland_commons-b4bb96e356f9a58e.rmeta: /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/lib.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/debug.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/filter.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/map.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/socket.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/user_data.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/wire.rs
+
+/home/eddy/Projects/notes/books/beginning-rust-programming/code/life/target/debug/deps/wayland_commons-b4bb96e356f9a58e.d: /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/lib.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/debug.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/filter.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/map.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/socket.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/user_data.rs /home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/wire.rs
+
+/home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/lib.rs:
+/home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/debug.rs:
+/home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/filter.rs:
+/home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/map.rs:
+/home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/socket.rs:
+/home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/user_data.rs:
+/home/eddy/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.4/src/wire.rs:
