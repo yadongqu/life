@@ -1,1 +1,1 @@
-/home/eddy/Projects/notes/books/beginning-rust-programming/code/life/target/debug/life: /home/eddy/Projects/notes/books/beginning-rust-programming/code/life/src/main.rs
+/home/eddy/Projects/life/target/debug/life: /home/eddy/Projects/life/src/main.rs
